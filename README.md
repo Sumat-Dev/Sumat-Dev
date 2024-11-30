@@ -8,4 +8,4 @@ I'm a passionate mobile app developer dedicated to crafting exceptional cross-pl
 
 ---
 
-*"Innovation distinguishes between a leader and a follower"** 📱✨
+*"Innovation distinguishes between a leader and a follower"*
