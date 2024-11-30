@@ -6,10 +6,6 @@ I'm a passionate mobile app developer dedicated to crafting exceptional cross-pl
 ## 💻 Tech Stack
 <img width="48" height="48" src="https://img.icons8.com/color/48/flutter.png" alt="flutter"/> <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/> <img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/> <img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/javascript.png" alt="javascript"/> <img width="48" height="48" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/> <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/> <img width="48" height="48" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
-## 📫 Connect
-- **Email**: [My Email](sumat8852@gmail.com)
-- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
-
 ---
 
 *"Innovation distinguishes between a leader and a follower"** 📱✨
